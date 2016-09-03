@@ -3,7 +3,7 @@
 
 # In[4]:
 
-#Author: Pooja Deo, Abhishika Mittal, Ankit Gupta ,Andre 
+#Author: Pooja Deo
 
 import re, urllib2,os,sys,time
 from bs4 import BeautifulSoup
